@@ -47,7 +47,6 @@ O projeto possui a seguinte estrutura de diretórios:
 
 - `app`: Contém os arquivos relacionados ao aplicativo, como controladores, modelos, visualizações e configurações.
 - `public`: Contém os arquivos públicos acessíveis pelo navegador, como CSS, JavaScript, imagens e o arquivo `index.php`.
-- `template`: Contém os arquivos de template bootstrap.
 - `.env`: Contém variáveis de ambiente que podem ser configuradas para ajustar o comportamento do aplicativo.
 
 ## Requisitos
