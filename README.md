@@ -62,13 +62,29 @@ Para executar o aplicativo, você precisará dos seguintes requisitos:
 
 Aqui estão algumas capturas de tela do aplicativo em execução:
 
-![Página inicial da loja](https://github.com/tarcisiodev1/app-loja-stripe-checkout/assets/111070575/1155f958-d474-4570-bd15-c785e6be263c)
+<!-- ![Página inicial da loja](https://github.com/tarcisiodev1/app-loja-stripe-checkout/assets/111070575/1155f958-d474-4570-bd15-c785e6be263c)
 
 ![Carrinho de compras](https://github.com/tarcisiodev1/app-loja-stripe-checkout/assets/111070575/c4d7294b-cf22-4038-b3b8-6f97907ff4e5)
 
 ![Responsividade](https://github.com/tarcisiodev1/app-loja-stripe-checkout/assets/111070575/f7e0372b-435a-4635-bcdd-e571151a9f03)
 
-![Responsividade2](https://github.com/tarcisiodev1/app-loja-stripe-checkout/assets/111070575/15618490-42a7-4a3c-8373-687be6e09737)
+![Responsividade2](https://github.com/tarcisiodev1/app-loja-stripe-checkout/assets/111070575/15618490-42a7-4a3c-8373-687be6e09737) -->
+
+<div align="center">
+<img src="https://github.com/tarcisiodev1/app-loja-stripe-checkout/assets/111070575/1155f958-d474-4570-bd15-c785e6be263c" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/tarcisiodev1/app-loja-stripe-checkout/assets/111070575/c4d7294b-cf22-4038-b3b8-6f97907ff4e5" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/tarcisiodev1/app-loja-stripe-checkout/assets/111070575/f7e0372b-435a-4635-bcdd-e571151a9f03" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/tarcisiodev1/app-loja-stripe-checkout/assets/111070575/15618490-42a7-4a3c-8373-687be6e09737" width="700px" />
+</div>
 
 ## Considerações Finais
 
