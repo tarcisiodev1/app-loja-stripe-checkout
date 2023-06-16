@@ -1,0 +1,19 @@
+{
+  "name": "tjdev/stripe",
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Tarcisio Santos",
+      "email": "tarcisiodev1@gmail.com"
+    }
+  ],
+  "require": {
+    "stripe/stripe-php": "^10.3",
+    "league/plates": "^3.5",
+    "vlucas/phpdotenv": "^5.5"
+  }
+}
