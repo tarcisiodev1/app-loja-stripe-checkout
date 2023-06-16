@@ -62,11 +62,13 @@ Para executar o aplicativo, você precisará dos seguintes requisitos:
 
 Aqui estão algumas capturas de tela do aplicativo em execução:
 
-![Página inicial da loja](screenshot.png)
+![Página inicial da loja](screenshot1.png)
 
 ![Carrinho de compras](screenshot2.png)
 
-![Checkout com Stripe](screenshot3.png)
+![Responsividade](screenshot3.png)
+
+![Responsividade2](screenshot4.png)
 
 ## Considerações Finais
 
