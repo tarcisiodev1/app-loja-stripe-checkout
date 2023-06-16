@@ -75,7 +75,7 @@ Aqui estão algumas capturas de tela do aplicativo em execução:
 </div>
 
 <div align="center">
-<img src="https://github.com/tarcisiodev1/app-loja-stripe-checkout/assets/111070575/c4d7294b-cf22-4038-b3b8-6f97907ff4e5" width="400px" />
+<img src="https://github.com/tarcisiodev1/app-loja-stripe-checkout/assets/111070575/c4d7294b-cf22-4038-b3b8-6f97907ff4e5" width="700px" />
 </div>
 
 <div align="center">
@@ -83,7 +83,7 @@ Aqui estão algumas capturas de tela do aplicativo em execução:
 </div>
 
 <div align="center">
-<img src="https://github.com/tarcisiodev1/app-loja-stripe-checkout/assets/111070575/15618490-42a7-4a3c-8373-687be6e09737" width="700px" />
+<img src="https://github.com/tarcisiodev1/app-loja-stripe-checkout/assets/111070575/15618490-42a7-4a3c-8373-687be6e09737" width="400px" />
 </div>
 
 ## Considerações Finais
